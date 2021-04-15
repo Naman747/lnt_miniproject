@@ -18,4 +18,4 @@ As I am planning to design a simple game with a very basic user interface (UI), 
 
 Use w,a,s,d to play the game(move the snake) and x to quit the game.
 
-![UML diagram][UML diagram.png]
+![UML diagram](https://user-images.githubusercontent.com/80382147/114836169-fea67b00-9def-11eb-8336-8bd29d5fd5ff.png)
