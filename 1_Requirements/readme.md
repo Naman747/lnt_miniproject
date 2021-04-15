@@ -19,3 +19,19 @@ As I am planning to design a simple game with a very basic user interface (UI), 
 Use w,a,s,d to play the game(move the snake) and x to quit the game.
 
 ![UML diagram](https://user-images.githubusercontent.com/80382147/114836169-fea67b00-9def-11eb-8336-8bd29d5fd5ff.png)
+
+# 4W's and 1H
+## Who:
+This a single player game.
+
+## What:
+This game is played on a 3 x 3 grid of available cells, and the goal of the game is to match three of your tokens (X or O) on the board in a row, column or diagonally.
+
+## When:
+This game ends when snake hits the wall. So this can be played when you're bored and want to pass time.
+
+## Where:
+Can be played by anyone and anywhere. 
+
+## How:
+Use W,A,S,D keys to navigate and X to quit the game.
