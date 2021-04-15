@@ -1,10 +1,10 @@
 Requirements
 
 
-Operating system (any)
+1. Operating system (any)
 
-GCC compiler
+2. GCC compiler
 
-VS code
+3. VS code
 
-Make
+4. Make
