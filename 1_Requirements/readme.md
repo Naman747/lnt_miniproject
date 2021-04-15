@@ -25,7 +25,7 @@ Use w,a,s,d to play the game(move the snake) and x to quit the game.
 This a single player game.
 
 ## What:
-This game is played on a 3 x 3 grid of available cells, and the goal of the game is to match three of your tokens (X or O) on the board in a row, column or diagonally.
+This game is simple snake game where the snake has to grab the fruit and increase score and not die while doing it, Snake dies if it touches any walls
 
 ## When:
 This game ends when snake hits the wall. So this can be played when you're bored and want to pass time.
