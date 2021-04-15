@@ -7,3 +7,15 @@
 3. VS code
 
 4. Make
+
+# Cost
+
+The cost of the game depends on the requirements of players. It can be modelled as a 3D game which requires heavy software tools, we can add music, we can make it an online game which requires database, or it can be as simple as entering from keypad of an old model mobile phone.
+
+As I am planning to design a simple game with a very basic user interface (UI), the cost required is zero if a computer is available.
+
+# System Definition
+
+Use w,a,s,d to play the game(move the snake) and x to quit the game.
+
+![UML diagram][UML diagram.png]
