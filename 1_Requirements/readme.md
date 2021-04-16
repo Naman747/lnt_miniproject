@@ -21,17 +21,32 @@ Use w,a,s,d to play the game(move the snake) and x to quit the game.
 ![UML diagram](https://user-images.githubusercontent.com/80382147/114836169-fea67b00-9def-11eb-8336-8bd29d5fd5ff.png)
 
 # 4W's and 1H
-## Who:
+ ## Who:
 This a single player game.
 
-## What:
+ ## What:
 This game is simple snake game where the snake has to grab the fruit and increase score and not die while doing it, Snake dies if it touches any walls
 
-## When:
+ ## When:
 This game ends when snake hits the wall. So this can be played when you're bored and want to pass time.
 
-## Where:
-Can be played by anyone and anywhere. 
+ ## Where:
+ Can be played by anyone and anywhere. 
 
-## How:
+ ## How:
 Use W,A,S,D keys to navigate and X to quit the game.
+
+# SWOT ANALYSIS
+ ## Strengths
+ Engaging and fun game.
+
+ ## Opportunities
+ Popular among all ages
+
+ ## Weaknesses 
+ .Gets boring after a while.
+ .Not multiplayer
+
+ ## Threats
+ No new features can be introduced.
+ Very old game not able to cope up in the era of online high end gaming.
